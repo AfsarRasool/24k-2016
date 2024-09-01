@@ -1,0 +1,30 @@
+Objective 3: ALGORITHM
+PROBLEM 1: Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+1)	Enter a divisor 
+2)	Enter a dividend
+3)	If 
+Dividend%divisor ==0
+                else if 
+                 divisor%2==0 then dividend is even
+               else 
+                  display odd.
+                           
+
+
+
+
+
+PROBLEM 3: Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+1)	Enter num1 and num2
+2)	If operator ‘+’
+Set result to num1+num2
+3)	If operator ‘-’
+Set result to num1-num2
+4)	If operator ‘*’
+Set result to num1*num2
+5)	If operator ‘/’
+Set result to num1/num2
+6)	If operator ‘%’
+Set result to num1%num2
+7)	Display the result
